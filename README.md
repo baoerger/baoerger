@@ -4,8 +4,13 @@
 
 研究工程与 AI 应用开发
 
+GitHub since 2019 · Python · Scientific computing · LLM applications
 
 ## Selected work
+
+### [Globex](https://github.com/baoerger/globex)
+
+跨境电商 Agent 工程项目。基于 AgentScope，将商品检索、向量召回与重排、订单工具和跨会话偏好记忆串成可观察的任务流程；FastAPI / WebSocket 提供实时事件，React 展示对话和商品卡，SQLite 与 Redis 支持持久化、缓存和任务队列。项目采用领域分层，并包含工具调用约束、预算控制和检索评测。商品目录使用种子数据，定位为可运行的工程原型。
 
 ### [Tunnel Fire Research](https://github.com/baoerger/tunnel-fire-research)
 
@@ -28,7 +33,7 @@
 
 ## Technical focus
 
-`Python` · `FDS` · `FastAPI` · `React` · `TypeScript` · `LLM applications` · `PowerPoint automation` · `OCR` · `scientific computing`
+`Python` · `FDS` · `AgentScope` · `FastAPI` · `React` · `TypeScript` · `Qdrant` · `Redis` · `LLM applications` · `PowerPoint automation` · `OCR` · `scientific computing`
 
 ## Repository curation
 
