@@ -30,7 +30,7 @@
 
 - Agent Developer Intern · Momenta
 - AI Application Developer Intern · Asiainfo Security
-- 东南大学硕士 · 天津理工大学物联网工程学士
+- 东南大学硕士
 
 ## Toolbox
 
