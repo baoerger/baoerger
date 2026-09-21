@@ -37,5 +37,5 @@ GitHub since 2019 · Python · Scientific computing · LLM applications
 
 ## Repository curation
 
-主页优先展示当前仍在维护、能够体现完整工程能力的项目。早期练习、实验仓库和第三方 fork 已从主要展示路径中移除或归档。
+主页优先展示当前仍在维护、能够体现完整工程能力的项目。早期练习、实验仓库和第三方 fork 已从主要展示路径中移除或归档；可追溯的早期学习记录集中在 [Legacy Labs](https://github.com/baoerger/legacy-labs)。
 
