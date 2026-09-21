@@ -2,7 +2,7 @@
 
 **Agent Developer · AI Applications · Research Engineering**
 
-东南大学硕士（交通运输 · AI 应用与智能决策），做能处理真实文档、调用工具、维护上下文并解释执行结果的 Agent 系统。
+东南大学硕士，做能处理真实文档、调用工具、维护上下文并解释执行结果的 Agent 系统。
 
 ## Focus
 
